@@ -189,15 +189,6 @@ http://localhost:8501
 - Generated audio is saved to a fixed filename, `outputs/generated_speech.mp3`, so a later generation can overwrite the previous file.
 - Custom model training and offline speech synthesis are not included.
 
-## 🔮 Future Enhancements
-
-- Add support for more languages and voice options.
-- Implement text preprocessing and normalization.
-- Support long documents through text chunking.
-- Allow users to choose custom output filenames.
-- Add improved error handling for network and service failures.
-- Provide an offline text-to-speech option.
-- Add a history of previously generated audio files.
 
 ## 🎓 Project Information
 
